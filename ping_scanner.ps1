@@ -2,7 +2,7 @@
 # Ping Scanner - Powershell
 #
 # use o powershell:
-# ~ powershell ./ping_scan.ps1 192.168.0
+# ~ powershell ./ping_scanner.ps1 192.168.0
 #
 param($p1)
 
